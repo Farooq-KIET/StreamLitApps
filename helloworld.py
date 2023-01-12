@@ -11,7 +11,7 @@ st.write("""Hello World!
 	Don't forget to add two whitespaces before hitting the return key for newline.
 	You new line will automatically displayed on a new line. However if you don't add the white
 	spaces, despite the new line character the text will be displayed on same line.""")
-st.button(label="Hello",on_click = onClickRun);
+#st.button(label="Hello",on_click = onClickRun);
 st.image('surprise.gif')
 st.write("""# About adding Headings
 To add headers in your webpage, simply use the '#' character. Using multiple 
